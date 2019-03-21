@@ -1,0 +1,5 @@
+all:
+	javac FibNode.java
+	javac fibonacciHeap.java
+	javac keywordConstruct.java
+	javac duckDuckGo.java
